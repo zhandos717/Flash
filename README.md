@@ -1,6 +1,4 @@
 <a name="index_block"></a>
-
-=================
 <a name="block1"></a>
 ## 1. Installation [↑](#index_block)
 ### Flash messages on PHP sessions
